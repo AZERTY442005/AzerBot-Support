@@ -16,8 +16,9 @@
 
 ## Main Links
 
-- Commands
-- Changelog
+- [Commands](https://github.com/AZERTY442005/AzerBot-Support/blob/Main/Commands.md)
+- [Changelog](https://github.com/AZERTY442005/AzerBot-Support/blob/Main/Changelog.md)
+- [TodoList](https://github.com/AZERTY442005/AzerBot-Support/blob/Main/TodoList.md)
 
 ## Prefix
 
@@ -43,6 +44,6 @@ https://discord.com/api/oauth2/authorize?client_id=782885398316711966&permission
 
 ## License
 
-Copyright CC-by-nc | ©2022 AZERTY. All rights Reserved | AZERTY#9999
+Copyright CC-by-nc | © 2022 AZERTY. All rights Reserved | AZERTY#9999
 
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
