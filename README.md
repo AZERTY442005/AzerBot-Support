@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">AzerBot</h1>
+<h1 align="center">AzerBot 1.1.8</h1>
   <p align="center">
     <br />
   </p>
