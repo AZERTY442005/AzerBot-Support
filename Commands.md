@@ -1,4 +1,4 @@
-# Commands
+# ✨Commands✨
 
 - <argument> Obligatory argument
 - (<argument>) Optional argument
