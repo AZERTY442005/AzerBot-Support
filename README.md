@@ -14,13 +14,10 @@
   <img src="./Assets/images/GuildJoin.jpg" alt="GuildCreate"width="445" height="327">
 </p>
 
-<br/>
-
 ## Main Links
 
 - Commands
 - Changelog
-<br/>
 
 ## Prefix
 
@@ -33,7 +30,6 @@ The default prefix is `;`, you can change it with `;settings prefix <new-prefix>
 - Moderation
 - Utility
 - Fun
-<br/>
 
 ## 🛠 Invite Link
 
@@ -44,7 +40,6 @@ https://discord.com/api/oauth2/authorize?client_id=782885398316711966&permission
 
 - English
 - French
-<br/>
 
 ## License
 
