@@ -46,4 +46,3 @@ https://discord.com/api/oauth2/authorize?client_id=782885398316711966&permission
 
 Copyright CC-by-nc | © 2022 AZERTY. All rights Reserved | AZERTY#9999
 
-Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
