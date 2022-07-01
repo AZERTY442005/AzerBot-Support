@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">AzerBot 1.1.8</h1>
+<h1 align="center">AzerBot 1.1.9</h1>
   <p align="center">
     <br />
   </p>
@@ -27,7 +27,7 @@ The default prefix is `;`, you can change it with `;settings prefix <new-prefix>
 
 ## ✨ Features
 
-- Defaults
+- Default
 - Moderation
 - Utility
 - Fun
