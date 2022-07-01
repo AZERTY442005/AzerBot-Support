@@ -1,7 +1,9 @@
 # TodoList
 
-- Discord v13 Bot
-- Link languaegs.json & Logs System to MongoDB
+- ~~Discord v13 Bot~~ 
+- ~~Link languages.json & Logs System to MongoDB~~
+
+- Presence Support System 
 - Create a Dashboard
 - Music Player
 - Member Count
