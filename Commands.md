@@ -4,7 +4,31 @@
 - (<argument>) Optional argument
 - [<argument>] Necessary argument for optionals
   
-## Default
+## Slash Commands
+
+### Default
+Basic or necessary Commands
+
+- a
+
+### Moderation
+Control Commands
+
+- a
+
+### Utility
+Additional and Useful Commands
+
+- a
+
+### Fun
+Fun Commands
+
+
+<br/>
+## Old Commands
+
+### Default
 Basic or necessary Commands
 
 - `;changelog` Changelog
@@ -22,7 +46,7 @@ Basic or necessary Commands
 - `;settings help` Settings
 - `;support` Displays a support page
 
-## Moderation
+### Moderation
 Control Commands
 
 - `;ban <user> <reason>` Ban a user
@@ -41,7 +65,7 @@ Control Commands
 - `;badwords help` Anti-Badwords System
 - `;ghostclear (<ID/user>) (<content>)` Clear a Specific thing
 
-## Utility
+### Utility
 Additional and Useful Commands
 
 - `;announce <color> <msg>` Send an announcement message
@@ -66,7 +90,7 @@ Additional and Useful Commands
 - `;ticket <category-id>` Tickets System
 - `;xp help` Manages Server XP System
 
-## Fun
+### Fun
 Fun Commands
 
 - `;8ball <wish>` Magic 8ball
