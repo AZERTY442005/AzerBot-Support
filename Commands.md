@@ -25,7 +25,7 @@ Additional and Useful Commands
 Fun Commands
 
 
-<br/>
+
 ## Old Commands
 
 ### Default
